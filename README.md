@@ -1,7 +1,9 @@
 # Nordic theme for albert launcher
 This is a nordic (darker) theme for the [albert launcher](https://albertlauncher.github.io/). 
 
-![](preview.png)
+<p align="center">
+  <img src="preview.png">
+</p>
 
 ## Instalation
 Donwload the [latest release](https://github.com/bahamondev/albert-nordic-darker-theme/releases/latest) and copy the *.qss files on the nordic widget box themes (usually `/usr/share/albert/org.albert.frontend.widgetboxmodel/themes`).
